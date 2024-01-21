@@ -1,4 +1,4 @@
-service: ms-login-groodme
+service: ms-boilerplate
 
 plugins:
   - serverless-offline
